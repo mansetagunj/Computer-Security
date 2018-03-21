@@ -10,7 +10,7 @@ Pre req:
 "pip install dpkt"   
 If on windows: "pip install win_inet_pton"    
 
-Want to know what is a Port scan?
+Want to know what is a Port scan?   
 [Palo Alto Networks](https://www.paloaltonetworks.com/cyberpedia/what-is-a-port-scan)  
 [searchmidmarketsecurity](http://searchmidmarketsecurity.techtarget.com/definition/port-scan)  
 [Wiki page](https://en.wikipedia.org/wiki/Port_scanner)  
